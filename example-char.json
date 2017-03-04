@@ -1,0 +1,92 @@
+{
+  "name": "Tojaff",
+  "equipment": [
+    {
+      "class": "armor",
+      "type": "head",
+      "rarity": "ascended",
+      "prefix": "berserker",
+      "slots": [
+        {
+          "type": "armor-upgrade",
+          "item": "scholar-rune"
+        },
+        {
+          "type": "infusion",
+          "item": "attr-power"
+        }
+      ]
+    },
+    {
+      "class": "weapon",
+      "type": "sword",
+      "rarity": "ascended",
+      "prefix": "berserker",
+      "slots": [
+        {
+          "type": "weapon-upgrade",
+          "item": "might-sigil"
+        },
+        {
+          "type": "infusion",
+          "item": "attr-power"
+        }
+      ]
+    },
+    {
+      "class": "trinket",
+      "type": "accessory",
+      "rarity": "ascended",
+      "prefix": "berserker",
+      "slots": [
+        {
+          "type": "infusion",
+          "item": "attr-power"
+        }
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "slot": "heal",
+      "skill": "2304"
+    },
+    {
+      "slot": "utility1",
+      "skill": "1238"
+    },
+    {
+      "slot": "utility1",
+      "skill": "1239"
+    },
+    {
+      "slot": "utility1",
+      "skill": "1230"
+    },
+    {
+      "slot": "elite",
+      "skill": "1337"
+    }
+  ],
+  "specials": [
+    {
+      "type": "f1",
+      "skill": "shatter1"
+    }
+  ],
+  "traits": [
+    {
+      "line": "532",
+      "selected": [
+        {
+          "type": "adept",
+          "trait": "1234"
+        }
+      ]
+    }
+  ],
+  "nourishment": {
+    "food": "834",
+    "utility": "234"
+  }
+}

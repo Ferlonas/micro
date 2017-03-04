@@ -1,0 +1,14 @@
+{
+  "mode": "repeat",
+  "rotation":
+  [
+    "1.000": {
+      "type": "skill",
+      "id": 231
+    },
+    "1.400": {
+      "type: "wait",
+      "duration": "5s"
+    }
+  ]
+}

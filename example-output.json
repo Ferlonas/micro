@@ -1,0 +1,43 @@
+{
+  "DPS": {
+    "overall": 20000,
+    "skills": {
+      "2304": 3000,
+      "2305": 6000,
+      "1723": 10000,
+      "2371": 1000
+    }
+  },
+  "HPS": {
+    "overall": 20000,
+    "skills": {
+      "2304": 3000,
+      "2305": 6000,
+      "1723": 10000,
+      "2371": 1000
+    }
+  },
+  "boons": {
+    "might": {
+      "uptime": "0.7",
+      "max": "23",
+      "average": "20"
+    }
+  },
+  "conditions": {
+    "vulnerability": {
+      "uptime": "1.0",
+      "max": "18",
+      "average": "15"
+    }
+  },
+  "equipment": {
+    "[source]": "[from-input]" 
+  },
+  "skills": {
+    "[source]": "[from-input]"
+  },
+  "traits": {
+    "[source]": "[from-input]"
+  }
+}
